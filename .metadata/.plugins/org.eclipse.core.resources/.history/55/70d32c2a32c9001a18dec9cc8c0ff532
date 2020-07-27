@@ -1,6 +1,0 @@
-package rest.api.playground.test.addproduct.test;
-
-public class AddProductSuccessResponse 
-{
-
-}
